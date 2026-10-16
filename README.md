@@ -2,7 +2,7 @@
 
 ChatLink is a simple Python chat application. I built it to learn how two programs connect and exchange messages through TCP sockets. To use it, run python server.py and python client.py in separate terminals. 
 
-[Software Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Software Demo Video](https://youtu.be/-4WLk_olYUw)
 
 # Network Communication
 
